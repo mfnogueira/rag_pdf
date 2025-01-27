@@ -4,8 +4,8 @@
 
 1. Clone o repositório:
 ```bash
-git clone <seu-repositorio>
-cd <sua-pasta>
+git clone https://github.com/mfnogueira/rag_pdf.git
+
 ```
 
 2. Crie e ative um ambiente virtual:
